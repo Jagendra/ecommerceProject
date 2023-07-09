@@ -1,5 +1,5 @@
 package com.sheryians.major.controller;
-
+// this class will manage categories and product for admin panel.
 import com.sheryians.major.dto.ProductDTO;
 import com.sheryians.major.model.Category;
 import com.sheryians.major.model.Product;
